@@ -11,7 +11,7 @@
 
 3. bundle install
 
-  `bundle install --path vendor/bundle -jobs 4`
+  `bundle install --path vendor/bundle --jobs 4`
 
 ## How to play
 
